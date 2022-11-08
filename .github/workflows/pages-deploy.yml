@@ -1,6 +1,6 @@
 name: "Build and Deploy"
-on:
-  push:
+on: 'Analytic-Playground.github.io'
+  push: 'Analytic-Playground.github.io'
     branches:
       - main
       - master
